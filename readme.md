@@ -9,6 +9,14 @@
 - 自動在 JSON 檔案的目錄下生成對應的 CSV 檔案。
 - 生成的 CSV 檔案使用 Big5 編碼，以便於在 Excel 中直接開啟和查看。
 
+## 下載和安裝
+
+如果你不想從源代碼開始，我們提供了預先打包好的 `.exe` 版本供下載：
+
+[點擊此處下載最新版本](https://github.com/joengan/JSON-TO-CSV/releases)
+
+下載後，直接運行該 `.exe` 文件即可。
+
 ## 用法
 
 1. 確保你的 JSON 檔案是表格格式，例如:
@@ -18,11 +26,3 @@
     {"name": "張三", "age": 30, "city": "台北"},
     {"name": "李四", "age": 25, "city": "高雄"}
 ]
-
-## 下載和安裝
-
-如果你不想從源代碼開始，我們提供了預先打包好的 `.exe` 版本供下載：
-
-[點擊此處下載最新版本](https://github.com/your-username/your-repo/releases)
-
-下載後，直接運行該 `.exe` 文件即可。
