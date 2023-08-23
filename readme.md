@@ -18,3 +18,11 @@
     {"name": "張三", "age": 30, "city": "台北"},
     {"name": "李四", "age": 25, "city": "高雄"}
 ]
+
+## 下載和安裝
+
+如果你不想從源代碼開始，我們提供了預先打包好的 `.exe` 版本供下載：
+
+[點擊此處下載最新版本](https://github.com/your-username/your-repo/releases)
+
+下載後，直接運行該 `.exe` 文件即可。
